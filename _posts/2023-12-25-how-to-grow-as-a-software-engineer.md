@@ -1,4 +1,8 @@
-#How to Grow as a Software Engineer?
+---
+layout: blogpost
+title: How to Grow as a Software Engineer
+date: 2023-12-25
+---
 
 I believe professional growth is crucial for developers aiming to succeed in their careers. Having worked in different companies and teams, I've made many decisions about this topic for myself. Let me share my thoughts with you in this article.
 
